@@ -1,0 +1,12 @@
+colors =c(black = "#324653",
+grey = "#E7E6E6",
+lightgrey = "#F2F2F2",
+bluegrey = "#44546A",
+brown = "#833C0B",
+darkblue = "#002752",
+blue =  "#0062a1",
+darkgreen = "#74A941",
+lightgreen = "#B7CE02",
+green = "#AED136",
+yellow = "#D1AC05",
+red = "#D5785A")
