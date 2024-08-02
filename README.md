@@ -1,11 +1,3 @@
----
-title: "IRDA style"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 Le but de ce package est d'offrir des fonctions permettant d'appliquer facilement le style graphique de l'IRDA aux packages de visualisation les plus utilisés en R.
